@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Priya & Ankit | Wedding Invitation</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Great+Vibes&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+  <style>
+</head>
+<body>
+
+<header>
+  <h1 data-aos="fade-down">Priya & Ankit</h1>
+  <p data-aos="fade-up">Together with their families, joyfully invite you to their royal union</p>
+  <p data-aos="fade-up" style="margin-top:20px;font-size:18px;">📅 18 February 2026 • Jaipur, Rajasthan</p>
+</header>
+
+<section class="story" data-aos="fade-up">
+  <h2>Our Love Story</h2>
+  <p>
+    What began as a gentle conversation soon turned into a bond written by destiny. 
+    Priya’s grace and warmth met Ankit’s strength and devotion, creating a love that 
+    grew with faith, laughter, and countless shared dreams. Guided by tradition and 
+    blessed by family, their journey now leads to a sacred promise — a forever together.
+  </p>
+</section>
+
+<section class="events">
+  <h2>Wedding Celebrations</h2>
+  <div class="events-grid">
+
+    <div class="event-card" data-aos="zoom-in">
+      <h3>Haldi Ceremony</h3>
+      <p>
+        A joyful morning ritual filled with turmeric hues, laughter, and blessings 
+        to prepare the couple for their sacred vows.
+      </p>
+      <a class="venue-link" href="https://www.tajhotels.com" target="_blank">Taj Palace, Udaipur</a>
+    </div>
+
+    <div class="event-card" data-aos="zoom-in">
+      <h3>Mehendi & Sangeet</h3>
+      <p>
+        An evening of intricate mehendi designs, soulful music, dance, and celebration 
+        as families unite in joy.
+      </p>
+      <a class="venue-link" href="https://www.oberoihotels.com" target="_blank">The Oberoi Rajvilas, Jaipur</a>
+    </div>
+
+    <div class="event-card" data-aos="zoom-in">
+      <h3>Wedding Ceremony</h3>
+      <p>
+        A grand Hindu wedding under sacred mantras, royal décor, and divine fire, 
+        marking the beginning of a lifetime together.
+      </p>
+      <a class="venue-link" href="https://www.leela.com" target="_blank">The Leela Palace, New Delhi</a>
+    </div>
+
+    <div class="event-card" data-aos="zoom-in">
+      <h3>Reception</h3>
+      <p>
+        An elegant evening to celebrate love, unity, and new beginnings with royal 
+        feasts and heartfelt wishes.
+      </p>
+      <a class="venue-link" href="https://www.itchotels.com" target="_blank">ITC Grand Bharat, Gurugram</a>
+    </div>
+
+  </div>
+</section>
+
+<footer>
+  With love, traditions, and royal celebrations ✦ Priya & Ankit<br/>
+  <span style="font-size:12px;">Crafted with elegance by <strong>Pyaarnaal Invites</strong></span>
+</footer>
+
+<!-- RSVP WhatsApp Button -->
+<a href="https://wa.me/919999999999?text=We%20are%20excited%20to%20attend%20Priya%20%26%20Ankit's%20wedding!" 
+   style="position:fixed;bottom:30px;right:30px;background:#25D366;color:white;padding:15px 22px;border-radius:50px;text-decoration:none;font-weight:500;box-shadow:0 10px 30px rgba(0,0,0,0.4);z-index:999;" 
+   target="_blank">
+   💬 RSVP on WhatsApp
+</a>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+  AOS.init({ duration: 1200, once: true });
+</script>
+
+</body>
+</html>
